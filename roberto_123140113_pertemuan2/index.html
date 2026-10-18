@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Planner Kuliah</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead__inner">
+      <h1>Planner Kuliah</h1>
+      <p class="quote" id="quote" aria-live="polite">Memuat kutipan...</p>
+    </div>
+  </header>
+
+  <main class="shell">
+    <nav class="tabs" role="tablist" aria-label="Menu utama">
+      <button class="tab is-active" role="tab" data-action="tab" data-view="jadwal" aria-selected="true">Jadwal</button>
+      <button class="tab" role="tab" data-action="tab" data-view="tugas" aria-selected="false">
+        Tugas <span class="badge" id="taskBadge">0</span>
+      </button>
+    </nav>
+
+    <section id="view-jadwal" class="view" aria-label="Jadwal mingguan">
+      <div class="week" id="week"></div>
+    </section>
+
+    <section id="view-tugas" class="view" hidden aria-label="Daftar tugas">
+      <div class="toolbar">
+        <h2>Daftar tugas</h2>
+        <button class="btn btn--primary" data-action="add-task">Tambahkan tugas</button>
+      </div>
+      <ul class="tasks" id="tasks"></ul>
+    </section>
+  </main>
+
+  <dialog id="scheduleDialog" class="dialog">
+    <form id="scheduleForm" method="dialog" class="form" novalidate>
+      <h2 id="scheduleTitle">Tambah jadwal</h2>
+      <input type="hidden" name="id">
+      <label>Hari
+        <select name="day" required></select>
+      </label>
+      <label>Mata kuliah
+        <input type="text" name="course" required maxlength="80" placeholder="Pemrograman Web">
+      </label>
+      <label>Kelas
+        <input type="text" name="room" required maxlength="40" placeholder="Ruang B2.04 / Kelas 3A">
+      </label>
+      <div class="row">
+        <label>Jam mulai
+          <input type="time" name="start" required>
+        </label>
+        <label>Jam selesai
+          <input type="time" name="end" required>
+        </label>
+      </div>
+      <p class="form__error" id="scheduleError" role="alert"></p>
+      <div class="form__actions">
+        <button type="button" class="btn" data-action="close-dialog">Batal</button>
+        <button type="submit" class="btn btn--primary">Simpan jadwal</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="taskDialog" class="dialog">
+    <form id="taskForm" method="dialog" class="form" novalidate>
+      <h2 id="taskTitle">Tambah tugas</h2>
+      <input type="hidden" name="id">
+      <label>Nama tugas
+        <input type="text" name="title" required maxlength="100" placeholder="Laporan praktikum 3">
+      </label>
+      <label>Mata kuliah
+        <input type="text" name="course" required maxlength="80" placeholder="Basis Data">
+      </label>
+      <div class="picker" id="coursePicker"></div>
+      <label>Deadline pengumpulan
+        <input type="datetime-local" name="deadline" required>
+      </label>
+      <label>Deskripsi
+        <textarea name="description" rows="4" maxlength="500" placeholder="Format PDF, kumpulkan lewat LMS"></textarea>
+      </label>
+      <p class="form__error" id="taskError" role="alert"></p>
+      <div class="form__actions">
+        <button type="button" class="btn" data-action="close-dialog">Batal</button>
+        <button type="submit" class="btn btn--primary">Simpan tugas</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="script.js"></script>
+</body>
+</html>
