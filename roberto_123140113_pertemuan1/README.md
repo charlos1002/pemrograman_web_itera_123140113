@@ -1,8 +1,8 @@
 # Aplikasi Kasir Sederhana
 
-**Nama** : Roberto Charlos Sagala
-**NIM** : 123140113
-**Kelas** : Praktikum Pengembangan Aplikasi Web - RB
+**Nama** : Roberto Charlos Sagala  
+**NIM** : 123140113  
+**Kelas** : Praktikum Pengembangan Aplikasi Web - RB  
 
 ## Deskripsi Aplikasi
 
