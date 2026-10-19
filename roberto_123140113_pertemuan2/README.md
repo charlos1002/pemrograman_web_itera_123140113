@@ -15,7 +15,15 @@ Fitur lainnya adalah Tugas. Di sini mahasiswa dapat menambahkan tugas beserta de
 ## Screenshot Aplikasi
 
 <!-- Sisakan ruang kosong untuk memasukkan screenshot -->
-![Screenshot Aplikasi](path/to/screenshot.png)
+<img width="1902" height="897" alt="Screenshot 2026-10-19 174716" src="https://github.com/user-attachments/assets/8e67440d-effd-45e7-b576-369ca5c29798" />
+
+<img width="1917" height="920" alt="Screenshot 2026-10-19 174657" src="https://github.com/user-attachments/assets/99ed7150-d822-453a-9aa1-68c60e9a53f4" />
+
+
+<img width="1920" height="922" alt="Screenshot 2026-10-19 174642" src="https://github.com/user-attachments/assets/221fc759-e71a-4017-851a-acf735fa2e48" />
+
+
+
 
 ---
 
