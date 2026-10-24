@@ -1,8 +1,8 @@
 # Aplikasi Kasir Sederhana
 
-**Nama** : Roberto Charlos Sagala
-**NIM** : 123140113
-**Kelas** : Praktikum Pengembangan Aplikasi Web - RB
+**Nama** : Roberto Charlos Sagala  
+**NIM** : 123140113  
+**Kelas** : Praktikum Pengembangan Aplikasi Web - RB  
 
 ## Deskripsi Aplikasi
 
@@ -51,18 +51,21 @@ Aplikasi web kasir sederhana untuk mencatat belanja pelanggan. Kasir memasukkan 
 **Tampilan utama**
 
 &nbsp;
+<img width="1920" height="922" alt="Screenshot 2026-10-19 180314" src="https://github.com/user-attachments/assets/ee8c9345-b3c5-489a-8742-b380b07ca102" />
 
 &nbsp;
 
 **Validasi form (pesan error)**
 
 &nbsp;
+<img width="426" height="560" alt="Screenshot 2026-10-19 181954" src="https://github.com/user-attachments/assets/5a3e6557-833e-4138-8e73-9ca93b8bd772" />
 
 &nbsp;
 
 **Keranjang, diskon, dan kembalian**
 
 &nbsp;
+<img width="432" height="621" alt="Screenshot 2026-10-19 180326" src="https://github.com/user-attachments/assets/d8b53bdd-bf08-4c97-b26f-de6ae496ff29" />
 
 &nbsp;
 
