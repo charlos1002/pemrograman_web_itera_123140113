@@ -1,4 +1,4 @@
-<img width="1089" height="485" alt="image" src="https://github.com/user-attachments/assets/1fa85343-d7f2-4a47-a003-f0f0601c5afc" /># Rak Buku Pribadi
+# Rak Buku Pribadi
 
 Aplikasi web untuk mencatat koleksi buku pribadi, dibuat dengan React dan Vite.
 
