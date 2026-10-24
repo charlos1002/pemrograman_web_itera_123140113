@@ -1,0 +1,8 @@
+.book-filter { display: flex; flex-wrap: wrap; gap: .75rem; margin-bottom: 1rem; }
+.book-filter input { flex: 1 1 220px; padding: .5rem; border: 1px solid var(--line); border-radius: 4px; }
+.filter-buttons { display: flex; gap: .4rem; flex-wrap: wrap; }
+.filter-buttons button {
+  padding: .4rem .8rem; border: 1px solid var(--line); background: var(--surface);
+  border-radius: 999px; cursor: pointer; color: var(--ink);
+}
+.filter-buttons button.active { background: var(--ink); color: #fff; border-color: var(--ink); }

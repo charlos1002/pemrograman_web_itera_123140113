@@ -1,0 +1,7 @@
+.stats { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1.25rem; }
+.stat-row { display: grid; grid-template-columns: 130px 1fr 90px; gap: .75rem; align-items: center; margin: .75rem 0; }
+.bar { background: var(--bg); height: 14px; border-radius: 7px; overflow: hidden; }
+.fill { height: 100%; }
+.status-bg-milik { background: var(--milik); }
+.status-bg-baca { background: var(--baca); }
+.status-bg-beli { background: var(--beli); }
