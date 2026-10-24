@@ -1,4 +1,4 @@
-# Rak Buku Pribadi
+<img width="1089" height="485" alt="image" src="https://github.com/user-attachments/assets/1fa85343-d7f2-4a47-a003-f0f0601c5afc" /># Rak Buku Pribadi
 
 Aplikasi web untuk mencatat koleksi buku pribadi, dibuat dengan React dan Vite.
 
@@ -101,19 +101,18 @@ Simpan gambar di folder `docs/screenshots/` dengan nama file seperti di bawah, a
 
 ### Halaman Koleksi
 
-![Halaman Koleksi](docs/screenshots/halaman-koleksi.png)
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/5c264ad0-171e-4d2d-84f0-62d372d23336" />
 
-### Validasi Form
-
-![Validasi Form](docs/screenshots/validasi-form.png)
 
 ### Halaman Statistik
 
-![Halaman Statistik](docs/screenshots/halaman-statistik.png)
+<img width="1920" height="904" alt="image" src="https://github.com/user-attachments/assets/1972be11-91e8-4840-b753-241ae2c5fa23" />
+
 
 ### Laporan Testing
 
-![Laporan Testing](docs/screenshots/laporan-testing.png)
+<img width="1089" height="485" alt="image" src="https://github.com/user-attachments/assets/ce2cf6ba-c98d-413e-ba51-e74b46dcdfdd" />
+
 
 ## Penjelasan Fitur React yang Digunakan
 
