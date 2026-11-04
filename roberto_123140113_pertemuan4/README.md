@@ -95,12 +95,14 @@ Jika program meminta input berat dan tinggi badan. Gunakan titik atau koma untuk
 
 ### Soal 1: Program Penghitung BMI
 
-![Hasil eksekusi Soal 1](screenshots/soal1.png)
+<img width="480" height="262" alt="image" src="https://github.com/user-attachments/assets/e946836b-039a-4cc1-bf62-c4b669cd4133" />
+
 
 ### Soal 2: Pengelolaan Data Nilai Mahasiswa
 
-![Hasil eksekusi Soal 2](screenshots/soal2.png)
+<img width="597" height="769" alt="image" src="https://github.com/user-attachments/assets/e4741175-9627-41c0-a91a-7716903bb7bc" />
+
 
 ### Soal 3: Modul Matematika Python
 
-![Hasil eksekusi Soal 3](screenshots/soal3.png)
+<img width="468" height="651" alt="image" src="https://github.com/user-attachments/assets/3af7ecea-c19a-4ff8-8c4f-685ff919a9a9" />
