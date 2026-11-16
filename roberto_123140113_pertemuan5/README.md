@@ -58,17 +58,21 @@ Menu: 1) Tambah item, 2) Tampilkan katalog, 3) Cari item, 4) Pinjam item, 5) Kem
 ## Screenshot Output
 
 ### Penambahan Item
-<!-- Tempel screenshot di bawah ini -->
+<img width="331" height="339" alt="image" src="https://github.com/user-attachments/assets/bdd80b8e-4937-40c2-9499-6ae679fad9f3" />
+
 
 
 ### Menampilkan Katalog
-<!-- Tempel screenshot di bawah ini -->
+<img width="607" height="257" alt="image" src="https://github.com/user-attachments/assets/5eaf9b53-034c-43a4-9323-8b45b56c4076" />
+
 
 
 ### Pencarian Item
-<!-- Tempel screenshot di bawah ini -->
+<img width="756" height="427" alt="image" src="https://github.com/user-attachments/assets/0073bcfe-f1e9-462a-8d83-6a8586ef3e65" />
+
 
 
 ### Status Ketersediaan (Peminjaman & Pengembalian)
-<!-- Tempel screenshot di bawah ini -->
+<img width="503" height="427" alt="image" src="https://github.com/user-attachments/assets/e5add91f-13fb-43ed-b1af-2b9e26cdfa0d" />
+
 
