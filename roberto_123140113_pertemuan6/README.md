@@ -4,7 +4,7 @@
 ## Identitas Praktikan
 - **Nama:** Roberto Charlos Sagala
 - **NIM:** 123140113
-- **Kelas:** [Isi Kelas Praktikum Kamu]
+- **Kelas:** RB
 - **Mata Kuliah:** Pengembangan Aplikasi Web
 
 ---
