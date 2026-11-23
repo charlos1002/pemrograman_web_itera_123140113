@@ -96,6 +96,6 @@ roberto_123140113_pertemuan6/
 
 ---
 
-## Dokumentasi Hasil Pengujian (cURL)
-
-### Pengujian Endpoint Mahasiswa & Matakuliah
+## Dokumentasi Hasil Pengujian (cURL)  
+### Pengujian Endpoint Mahasiswa & Matakuliah  
+<img width="1915" height="393" alt="image" src="https://github.com/user-attachments/assets/886a04f5-3795-40cd-bc1d-577d75ac0b85" />
